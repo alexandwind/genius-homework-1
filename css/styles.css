@@ -126,39 +126,6 @@ address {
   font-size: 18px;
 }
 
-.header-subtitle {
-  color: var(--color-primary-dark);
-  font-family: Roboto;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
-
-.header-title {
-  color: var(--color-primary-light);
-  font-family: Play;
-  font-size: 140px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 0.8;
-  text-transform: capitalize;
-  max-width: 530px;
-  width: 100%;
-}
-
-.button-description {
-  color: var(--color-secondary-dark);
-  text-align: center;
-  font-family: Roboto;
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.5;
-  max-width: 238px;
-  width: 100%;
-}
-
 .title-span {
   color: var(--color-primary-light);
 }
@@ -175,6 +142,41 @@ address {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+}
+
+/* Hero section */
+
+.hero-subtitle {
+  color: var(--color-primary-dark);
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.hero-title {
+  color: var(--color-primary-light);
+  font-family: Play;
+  font-size: 140px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0.8;
+  text-transform: capitalize;
+  max-width: 530px;
+  width: 100%;
+}
+
+.hero-btn-description {
+  color: var(--color-secondary-dark);
+  text-align: center;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  max-width: 238px;
+  width: 100%;
 }
 
 /* beauty-landing section */
